@@ -34,7 +34,7 @@ const inActiveClass="text-base block py-2 pl-3 pr-4 text-gray-900 rounded hover:
           <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <Link to="/" className="flex items-center">
                 <img src={Logo} className="h-8 mr-2" alt="Flowbite Logo" />
-                <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Cinema mate</span>
+                <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Cinemate</span>
             </Link>
 
             <div id="mobile-nav" className="flex md:order-2">        
